@@ -1,7 +1,7 @@
 #!/bin/bash
 
-NGROK_TOKEN=""
-USER_PASS=""
+NGROK_TOKEN="2Oj4GaFXGnfE41OXWAxCcMzb59W_6HeV1yfb8gCoEiVN2A8MJ"
+USER_PASS="E68Ulsj0"
 if [[ -z "$NGROK_TOKEN" ]]; then
   echo "Please set 'NGROK_TOKEN'"
   exit 2
